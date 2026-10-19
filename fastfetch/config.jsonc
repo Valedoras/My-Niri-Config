@@ -1,0 +1,44 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+  "logo": {
+      "source": "~/.config/fastfetch/images/oda.txt",
+      "padding": {
+        "right": 1,
+        "left": 1
+    }
+  },
+  "display": {
+      "separator": " -> "
+  },  
+  "modules": [
+    "break",
+    "break",
+    {
+      "type": "title"
+    },
+    "separator",
+    {
+      "type": "os",
+      "format": "Archlinux (Btw)"
+    },
+    {
+      "type": "host",
+      "key": "User",
+      "format": "Valedoras-PC"
+    },
+    "kernel",
+    "uptime",
+    "packages",
+    "shell",
+    "wm",
+    "font",
+    "cursor",
+    "terminal",
+    "terminalfont",
+    "disk",
+    "cpu",
+    "memory",
+    "break",
+    "colors"
+  ]
+}

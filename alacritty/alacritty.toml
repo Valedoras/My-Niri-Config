@@ -1,0 +1,15 @@
+[general]
+
+[terminal.shell]
+program = "/usr/bin/fish"
+
+[font]
+size = 15.0
+
+[font.normal]
+family = "Iosevka Nerd Font"
+style = "Bold"
+
+[window]
+opacity = 0.85
+blur = true

@@ -1,0 +1,23 @@
+shading_mode=blocks
+
+separator=~
+
+box=1
+
+custom_OS=Archlinux (Btw)
+custom_User=Valedoras
+custom_Pronouns=he/him
+custom_Editor=Neovim/LazyVim
+shell
+kernel
+uptime
+packages
+wm
+custom_DE=Noctalia V5
+terminal
+cpu
+disk
+memory
+battery
+custom_Website=archlinux.org
+colors
